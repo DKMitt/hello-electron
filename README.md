@@ -1,7 +1,23 @@
 # Hello Electron
-hello-electron is a simple Electron Hellow World App to see how Electron works
+hello-electron is a simple Electron Hello World App to see how Electron works
 
 Electron website url [https://electronjs.org/]('https://electronjs.org/')
+
+
+
+#### Dependencies 
+This app does need to have installed node.js and npm 
+[Download node.js with npm](https://nodejs.org)
+
+
+
+#### Install Electron
+---
+To install the latest version of Electron using npm:	
+
+	npm i -D electron@latest
+
+
 
 #### Steps to get up and going
 ---
