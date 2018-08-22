@@ -1,5 +1,5 @@
 # Hello Electron
-hello-electron is a simple Electron Hello World App to see how Electron works
+hello-electron is a simple Electron Hello World App dressed up a little to see how Electron works
 
 Electron website url [https://electronjs.org/]('https://electronjs.org/')
 
