@@ -1,11 +1,15 @@
 # Hello Electron
 hello-electron is a simple Electron Hello World App dressed up a little to see how Electron works
 
-Electron website url [https://electronjs.org/]('https://electronjs.org/')
+Electron website URL [https://electronjs.org/]('https://electronjs.org/')
+
+
+![Hello Electron World](assets/images/exampleimg.jpg)
 
 
 
-#### Dependencies 
+#### Requirements 
+
 This app does need to have installed node.js and npm 
 [Download node.js with npm](https://nodejs.org)
 
